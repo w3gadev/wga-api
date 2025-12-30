@@ -29,7 +29,7 @@
 
 ## API Key
 
-Please include the API Key in the `X-API-KEY` header of your requests.
+Please include the API Key in the `X-WGA-API-Key` header of your requests.
 
 # API List
 
