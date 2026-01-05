@@ -25,6 +25,10 @@
 
 ## URL
 
+### Production Server
+`https://api.wga.xyz/`
+
+### Develope Server
 `https://dev-api.wga.xyz/`
 
 ## API Key
